@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Xiancheng (Vincent) Su. I am an undergraduate student majoring in Computer Science with a minor in Real Estate Development.
 
-### More Information
+My interests focus on cryptocurrencies, blockchain infrastructure, and real-world asset (RWA) tokenization.
 
-A place to include any other types of information that you'd like to include about yourself.
+During the summer and fall, I work at [Summit Ventures](https://summit.ventures/), a real estate private equity firm.
+
 

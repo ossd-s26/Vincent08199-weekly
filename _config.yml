@@ -17,7 +17,7 @@ description: CSCI-UA 480 Student, Spring 2026
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /vincent08199-weekly/images/icon.png
+avatar: /Vincent08199-weekly/images/profile.jpeg
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and
@@ -52,14 +52,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s26.github.io/vincent08199-weekly"
+url: "https://ossd-s26.github.io/Vincent08199-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/vincent08199-weekly"
+baseurl: "/Vincent08199-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
